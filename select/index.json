@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Lovely Couple",
+  "base_artist": "CHIHIRO",
+  "createdAt": "2026-02-21T15:19:20.890699Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lovely Couple",
+      "artist": "CHIHIRO",
+      "has_synced": false,
+      "path": "select/01_Lovely_Couple_CHIHIRO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovely Couple",
+      "artist": "CHIHIRO",
+      "has_synced": false,
+      "path": "select/pl_01_Lovely_Couple_CHIHIRO.txt"
+    }
+  ]
+}
